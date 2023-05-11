@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="add visit" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core&quot;,&quot;$values&quot;:[{&quot;ItemUId&quot;:&quot;c8e6b694-dcbc-4431-8541-6e24ec99c2b6&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;a63124a5-6fb1-87d0-efd5-4be9f3b498af&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;d5f6cc2c-b322-4757-b5e1-796797b4f767&quot;},&quot;value&quot;:{&quot;isLczValue&quot;:true,&quot;value&quot;:&quot;auto added record&quot;},&quot;displayValue&quot;:{&quot;isLczValue&quot;:true,&quot;value&quot;:&quot;auto added record&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:1,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;83cc032c-23c1-4fcd-8768-7225679ff692&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;a22c8971-a138-8ce2-48f6-433835805c95&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;d5f6cc2c-b322-4757-b5e1-796797b4f767&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Element:{9bc595e5-6504-4672-b8f1-3c6193317fc3}].[Parameter:{3cb04821-0703-4207-9ca4-02e12ef32d12}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#realty added.Unique identifier of record#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;f2109715-6347-40f2-b027-8442de562748\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;5a0832b3-9864-4fc5-9e9e-849a872b7f38&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;7fdb38d3-afe8-39f9-c914-6b89162fb13c&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;d5f6cc2c-b322-4757-b5e1-796797b4f767&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#SysVariable.CurrentDateTime#].AddDays(1)&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#System variable.Current Time and Date#].AddDays(1)&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;Terrasoft.Core.Process.ProcessSchemaParameterValue, Terrasoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;d21e9ef4-c064-4012-b286-fa1a8171da44\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}}]}" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.c8e6b694-dcbc-4431-8541-6e24ec99c2b6.displayValue" Value="auto added record" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.c8e6b694-dcbc-4431-8541-6e24ec99c2b6.value" Value="auto added record" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="N &gt; 0" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="N == 0" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="N = N - 1" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="set realty id" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Manual start" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="realty added" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.TerminateEvent1.Caption" Value="The end" />
+			<Item Name="Caption" Value="Auto create realty visits" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.NParameter.Caption" Value="N" />
+			<Item Name="Parameters.NParameter.DisplayValue" Value="5" />
+			<Item Name="Parameters.RealtyIdParameter.Caption" Value="Realty Id" />
+		</Items>
+	</Group>
+</Resources>

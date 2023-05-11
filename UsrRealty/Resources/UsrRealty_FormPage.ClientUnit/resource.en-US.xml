@@ -5,6 +5,17 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_3coljfg_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_wqbm6av_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_g9jo216_caption.Value" Value="Add visits" />
+			<Item Name="LocalizableStrings.Button_vaf8ls4_caption.Value" Value="Calc avg price" />
+			<Item Name="LocalizableStrings.Button_z5lw7oz_caption.Value" Value="PUSH!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_632sxei_title.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_4vqzuon_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_7adudho_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_u0zbll4_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_uqackw0_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_7b9fmc3_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_vcyvxf6_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_oyrhfge_label.Value" Value="Number" />
 		</Items>
 	</Group>
 </Resources>
