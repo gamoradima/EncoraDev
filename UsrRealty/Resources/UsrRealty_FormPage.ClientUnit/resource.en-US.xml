@@ -5,6 +5,7 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_3coljfg_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_wqbm6av_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_5apewcz_caption.Value" Value="Run WebService" />
 			<Item Name="LocalizableStrings.Button_g9jo216_caption.Value" Value="Add visits" />
 			<Item Name="LocalizableStrings.Button_vaf8ls4_caption.Value" Value="Calc avg price" />
 			<Item Name="LocalizableStrings.Button_z5lw7oz_caption.Value" Value="PUSH!" />
